@@ -63,7 +63,7 @@ We practiced redesigning popular app homepages like **Ola**, **Rapido**, and **U
 
 - **Figma Files**: High and low-fidelity wireframes and prototypes.
 - **Design Principles**: Notes on key UI/UX principles and methodologies.  
-- **App Redesign Projects**: Screenshots and descriptions of Ola, Rapido, and Uber redesigns.
+- **App Redesign Projects**: Screenshots of Ola, Rapido, and Uber redesigns.
 - **Notes**: 
  https://www.figma.com/design/08zr5DvSAteRAW9JOK0E8l/UI-%2F-UX-WORKSHOP-ASSETS-(Community)?node-id=0-1&t=irC6B8b2jEoqfuoO-1
 
